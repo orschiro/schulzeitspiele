@@ -23,6 +23,7 @@ Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeit
 - [Apple Podcast](https://podcasts.apple.com/us/podcast/schulzeitspiele/id1610604243)
 - [PlayerFM](https://player.fm/series/series-3317790)
 - [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9TY2h1bHplaXRzcGllbGU)
+- [Castbox](https://castbox.fm/channel/Schulzeitspiele-id4799280?country=gb)
 
 ## Technisches hinter den Kulissen
 
