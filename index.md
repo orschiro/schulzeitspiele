@@ -20,11 +20,7 @@ Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeit
 
 - [YouTube](https://www.youtube.com/channel/UCPfUVJfYnsnr31DPQ3EkOow)
 - [RSS](http://feeds.feedburner.com/Schulzeitspiele)
-- [Apple Podcast](https://podcasts.apple.com/us/podcast/schulzeitspiele/id1610604243)
+- [Apple Podcast](https://podcasts.apple.com/de/podcast/schulzeitspiele/id1610604243)
 - [PlayerFM](https://player.fm/series/series-3317790)
 - [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9TY2h1bHplaXRzcGllbGU)
-- [Castbox](https://castbox.fm/channel/Schulzeitspiele-id4799280?country=gb)
-
-## Technisches hinter den Kulissen
-
-Wir nehmen den Podcast über YouTube auf. Listenbox erstellt den Audio-RSS-Feed. Weil dieser nicht valide ist, korrigiert ihn Feedinformer. Den wiederum haben wir eingepflegt in Feedburner, der daraus einen für Apple Podcast validen RSS-Feed generiert. Vorteil ebenso, dieser ändert sich nicht und bleibt immer der gleiche!
+- [Castbox](https://castbox.fm/channel/Schulzeitspiele-id4799280)
