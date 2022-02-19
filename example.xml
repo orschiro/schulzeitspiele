@@ -1,198 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Hiking Treks</title>
-    <link>https://www.apple.com/itunes/podcasts/</link>
-    <language>en-us</language>
-    <copyright>&#169; 2020 John Appleseed</copyright>
-    <itunes:author>The Sunset Explorers</itunes:author>
-    <description>
-      Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the
-      show for you. We review hikes and excursions, review outdoor gear and interview
-      a variety of naturalists and adventurers. Look for new episodes each week.
-    </description>
-    <itunes:type>serial</itunes:type>
-    <itunes:owner>
-      <itunes:name>Sunset Explorers</itunes:name>
-      <itunes:email>mountainscape@icloud.com</itunes:email>
-    </itunes:owner>
-    <itunes:image
-      href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
-    />
-    <itunes:category text="Sports">
-      <itunes:category text="Wilderness"/>
-    </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
-    <item>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>Hiking Treks Trailer</itunes:title>
-      <description>
-          <![CDATA[The Sunset Explorers share tips, techniques and recommendations for
-          great hikes and adventures around the United States. Listen on 
-          <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190418</guid>
-      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
-      <itunes:duration>1079</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP04 Mt. Hood, Oregon</title>
-      <description>
-        Tips for trekking around the tallest mountain in Oregon
-      </description>
-      <enclosure
-        length="8727310" 
-        type="audio/x-m4a" 
-        url="http://example.com/podcasts/everything/mthood.m4a"
-      />
-      <guid>aae20190606</guid>
-      <pubDate>Tue, 07 May 2019 12:00:00 GMT</pubDate>
-      <itunes:duration>1024</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP03 Bouldering Around Boulder</title>
-      <description>
-        We explore fun walks to climbing areas about the beautiful Colorado city of Boulder.
-      </description>
-      <itunes:image
-        href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg"
-      />
-      <link>href="http://example.com/podcasts/everything/</link>
-      <enclosure 
-        length="5650889" 
-        type="video/mp4" 
-        url="http://example.com/podcasts/boulder.mp4"
-      />
-      <guid>aae20190530</guid>
-      <pubDate>Tue, 30 Apr 2019 13:00:00 EST</pubDate>
-      <itunes:duration>3627</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP02 Caribou Mountain, Maine</title>
-      <description>
-        Put your fitness to the test with this invigorating hill climb.
-      </description>
-      <itunes:image
-        href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg"
-      />
-      <enclosure 
-        length="5650889"
-        type="audio/x-m4v" 
-        url="http://example.com/podcasts/everything/caribou.m4v"
-      />
-      <guid>aae20190523</guid>
-      <pubDate>Tue, 23 May 2019 02:00:00 -0700</pubDate>
-      <itunes:duration>2434</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>2</itunes:season>
-      <title>S02 EP01 Stawamus Chief</title>
-      <description>
-        We tackle Stawamus Chief outside of Vancouver, BC and you should too!
-      </description>
-      <enclosure
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190516</guid>
-      <pubDate>2019-02-16T07:00:00.000Z</pubDate>
-      <itunes:duration>13:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP04 Kuliouou Ridge Trail</title>
-      <description>
-        Oahu, Hawaii, has some picturesque hikes and this is one of the best!
-      </description>
-      <enclosure
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190509/guid>
-      <pubDate>Tue, 27 Nov 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>929</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP03 Blood Mountain Loop</title>
-      <description>
-        Hiking the Appalachian Trail and Freeman Trail in Georgia
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190502</guid>
-      <pubDate>Tue, 23 Oct 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>1440</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP02 Garden of the Gods Wilderness</title>
-      <description>
-        Wilderness Area Garden of the Gods in Illinois is a delightful spot for 
-        an extended hike.
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190425</guid>
-      <pubDate>Tue, 18 Sep 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>839</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <title>S01 EP01 Upper Priest Lake Trail to Continental Creek Trail</title>
-      <description>
-        We check out this powerfully scenic hike following the river in the Idaho
-        Panhandle National Forests.
-      </description>
-      <enclosure 
-        length="498537" 
-        type="audio/mpeg" 
-        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"
-      />
-      <guid>aae20190418a</guid>
-      <pubDate>Tue, 14 Aug 2018 01:15:00 +0000</pubDate>
-      <itunes:duration>1399</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-  </channel>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:docs="http://schemas.google.com/docs/2007" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/" xmlns:twitter="http://api.twitter.com" version="2.0">
+<channel>
+<title>Schulzeitspiele</title>
+<link>http://feed.informer.com/digests/7ASUVCA9SX/feeder</link>
+<description>Schulzeitspiele</description>
+<copyright>Phil &amp; Rob</copyright>
+<pubDate>Sat, 19 Feb 2022 14:25:17 +0100</pubDate>
+<generator>Feed Informer http://feed.informer.com/</generator>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Schulzeitspiele" />
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="schulzeitspiele" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+<media:copyright>Phil &amp; Rob</media:copyright>
+<media:thumbnail url="https://www.wisst-ihr-noch.de/wp-content/uploads/2021/05/b-die-schlechtesten-videospiele-aller-zeiten-scaled.jpg" />
+<media:keywords>videospiele</media:keywords>
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category>
+<itunes:owner>
+<itunes:email>kontakt@schulzeitspiele.de</itunes:email>
+<itunes:name>Phil &amp; Rob</itunes:name>
+</itunes:owner>
+<itunes:author>Phil &amp; Rob</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://www.wisst-ihr-noch.de/wp-content/uploads/2021/05/b-die-schlechtesten-videospiele-aller-zeiten-scaled.jpg" />
+<itunes:keywords>videospiele</itunes:keywords>
+<itunes:subtitle>Ein Podcast über Videospiele der späten 90er und frühen 2000er</itunes:subtitle>
+<itunes:summary>Phil (Jahrgang 91) und Rob (Jahrgang 90) erinnern sich an die schönsten Videospielmomente ihrer Schulzeit. Und da war so einiges dabei! Neue Konsolengenerationen, der Beginn neuer Spieleserien, die bis heute überdauern, die Hochzeit der Spielezeitschriften bis hin zum Finetuning des eigenen Rechners.&#xD;
+&#xD;
+Du möchtest mit in den Erinnerungen schwelgen? Dann hör in den Podcast rein oder schalte ein auf YouTube.&#xD;
+&#xD;
+Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeitspiele.de oder hinterlasse einen Kommentar auf YouTube!</itunes:summary>
+<itunes:category text="Games &amp; Hobbies">
+<itunes:category text="Video Games" />
+</itunes:category>
+<item>
+<title>Meine ersten Spiele</title>
+<link>https://www.youtube.com/watch?v=Mr4r_TQs1tA</link>
+<source url="https://listenbox.app/i/y0GFamsQLP6y">Meine ersten Spiele</source>
+<guid isPermaLink="false">urn:uuid:b81fdcf8-8a97-5c79-3153-3a54eddae21f</guid>
+<pubDate>Thu, 17 Feb 2022 01:00:00 +0100</pubDate>
+<description>Phil und Rob unterhalten sich über ihre ersten Spieleerinnerungen aus 1996.</description>
+<enclosure url="https://cdn.listenbox.app/a/T3MAVbt57lK.m4a?show_id=y0GFamsQLP6y" length="42314500" type="audio/mp4" />
+<author>kontakt@schulzeitspiele.de (Phil &amp; Rob)</author>
+<itunes:duration>00:43:36</itunes:duration>
+<itunes:subtitle>Phil und Rob unterhalten sich über ihre ersten Spieleerinnerungen aus 1996.</itunes:subtitle>
+<media:content url="https://cdn.listenbox.app/a/T3MAVbt57lK.m4a?show_id=y0GFamsQLP6y" fileSize="42314500" type="audio/mp4" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Phil &amp; Rob</itunes:author>
+<itunes:summary>Phil und Rob unterhalten sich über ihre ersten Spieleerinnerungen aus 1996.</itunes:summary>
+<itunes:keywords>videospiele</itunes:keywords>
+</item>
+<language>en-us</language>
+<media:credit role="author">Phil &amp; Rob</media:credit>
+<media:rating>nonadult</media:rating>
+<media:description type="plain">Ein Podcast über Videospiele der späten 90er und frühen 2000er</media:description>
+</channel>
 </rss>
