@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:docs="http://schemas.google.com/docs/2007" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/" xmlns:twitter="http://api.twitter.com" version="2.0">
-<title>Schulzeitspiele</title>
-<language>de-de</language>
-<link>https://schulzeitspiele.de</link>
-</rss>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hiking Treks</title>
+    <link>https://www.apple.com/itunes/podcasts/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2020 John Appleseed</copyright>
+    <itunes:author>The Sunset Explorers</itunes:author>
+    <description>
+      Love to get outdoors and discover nature&apos;s treasures? Hiking Treks is the
+      show for you. We review hikes and excursions, review outdoor gear and interview
+      a variety of naturalists and adventurers. Look for new episodes each week.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Sunset Explorers</itunes:name>
+      <itunes:email>mountainscape@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
+    />
+    <itunes:category text="Sports">
+      <itunes:category text="Wilderness"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
