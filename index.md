@@ -20,3 +20,4 @@ Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeit
 
 - [YouTube](https://www.youtube.com/channel/UCPfUVJfYnsnr31DPQ3EkOow)
 - [RSS](https://schulzeitspiele.de/rss)
+- [Anchor](https://anchor.fm/schulzeitspiele.de)
