@@ -8,7 +8,7 @@ header-includes:
     <link rel="manifest" href="/site.webmanifest">
 ---
 
-![](https://www.wisst-ihr-noch.de/wp-content/uploads/2021/05/b-die-schlechtesten-videospiele-aller-zeiten-scaled.jpg)
+![](22104647-1645342297091-12fbda3b69e64.jpeg)
 
 Phil (Jahrgang 91) und Rob (Jahrgang 90) erinnern sich an die schönsten Videospielmomente ihrer Schulzeit. Und was es da nicht alles gab! Neue Konsolengenerationen, der Beginn neuer Spieleserien, die bis heute existieren, die Hochzeit der Spielezeitschriften, bis hin zum Übertakten des eigenen Rechners.
 
@@ -20,4 +20,6 @@ Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeit
 
 - [YouTube](https://www.youtube.com/channel/UCPfUVJfYnsnr31DPQ3EkOow)
 - [RSS](https://schulzeitspiele.de/rss)
-- [Anchor](https://anchor.fm/schulzeitspiele.de)
+- [Spotify](https://open.spotify.com/show/1F7PT02S2TKepBwejeltXm)
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/schulzeitspiele/id1610604243)
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9zY2h1bHplaXRzcGllbGUuZGUvcnNz)
