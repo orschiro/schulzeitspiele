@@ -21,5 +21,5 @@ Du hast es lieber noch persönlicher? Dann schreib uns doch an kontakt@schulzeit
 - [YouTube](https://www.youtube.com/channel/UCPfUVJfYnsnr31DPQ3EkOow)
 - [RSS](https://schulzeitspiele.de/rss)
 - [Spotify](https://open.spotify.com/show/1F7PT02S2TKepBwejeltXm)
-- [Apple Podcast](https://podcasts.apple.com/us/podcast/schulzeitspiele/id1610604243)
+- [Apple Podcast](https://podcasts.apple.com/de/podcast/schulzeitspiele/id1610604243)
 - [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9zY2h1bHplaXRzcGllbGUuZGUvcnNz)
